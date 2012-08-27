@@ -1,0 +1,8 @@
+Logger.old.class.php
+Logger.old.odt
+cfg/*
+!cfg/logger.cfg.xml
+tmp/*
+!tmp/empty
+log/*
+!log/empty
